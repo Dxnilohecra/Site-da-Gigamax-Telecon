@@ -1,0 +1,25 @@
+body {
+    color: green;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.faixa-colorida {
+    height: 200px; /* Altura da faixa */
+    background-color: #ff5733; /* Cor da faixa */
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+img {
+    width: 300px;
+    height: 200px;
+}

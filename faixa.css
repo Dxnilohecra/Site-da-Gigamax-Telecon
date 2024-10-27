@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.faixa-colorida {
+    height: 100px;
+    background-color: #ff5733;
+}

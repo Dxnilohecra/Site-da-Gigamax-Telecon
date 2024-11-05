@@ -1,5 +1,4 @@
 body {
-    background-image:url(background.png);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -65,3 +64,9 @@ img {
     font-weight: bold;
     color: rgb(0, 162, 255);
 }
+
+.img {
+    width: 300px;
+    height: 200px;
+}
+
